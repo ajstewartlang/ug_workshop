@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 ug_slides.key
-worksheets_markdown/*.*
+worksheets_markdown/
+welcome/
